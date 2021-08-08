@@ -1,2 +1,2 @@
 # fitbot
-A Telegram Bot to find the right size of clothes
+A Telegram Bot to find the right size of clothes (women's shorts in this version)
