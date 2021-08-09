@@ -1,4 +1,4 @@
 # fitbot
-A Telegram Bot to find the right size of clothes (women's shorts in this version)
+A Telegram Bot to find the right size of clothes (women's shorts and a shirt)
 
-![](https://github.com/valeriia-rohoza/fitbot/blob/main/example.jpgraw=true)
+<a href="https://imgur.com/9Ahkr6y"><img src="https://i.imgur.com/9Ahkr6y.jpg" title="source: imgur.com" /></a>
