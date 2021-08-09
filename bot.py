@@ -5,7 +5,7 @@ from numpy import ndarray
 import telebot
 
 # create token using BotFather in Telegram
-API_KEY = os.getenv('API_KEY')
+API_KEY = os.getenv('TELEGRAM_TOKEN')
 
 class Size:
     """ A class is used to collect an information about one size of body:
